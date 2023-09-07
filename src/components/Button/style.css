@@ -1,0 +1,3 @@
+.btn__login {
+	@apply border-2 border-[#0A2640] px-8 py-1 rounded-3xl;
+}

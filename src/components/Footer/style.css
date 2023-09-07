@@ -1,0 +1,8 @@
+.footer__logo {
+	width: 156px;
+	height: 41px;
+}
+
+.footer__text {
+	@apply font-[400] text-[16px] text-[#777777] font-sans mt-[40px] md:w-[70%];
+}
