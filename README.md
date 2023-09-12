@@ -1,4 +1,4 @@
-# Todos Frontend
+# Boldo landing page
 
 This is a website landing page design developed with reactjs and tailwindcss.
 
